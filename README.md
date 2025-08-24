@@ -1,1 +1,1 @@
-W-LMS 깃허브 등록 테스트 REPO
+WLMS 깃허브 등록 테스트 REPO
