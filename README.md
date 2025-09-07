@@ -1,1 +1,1 @@
-WLMS 깃허브 등록 REPO
+WLMS 과제 깃허브 등록 REPO
